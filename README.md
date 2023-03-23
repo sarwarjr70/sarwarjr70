@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Sarwar Jahan Moon</h1>
-<h3 align="center">I am frontend developer & UI/Ux & wordpress from Bangladesh</h3>
+<h3 align="center">I am frontend & UI/Ux & wordpress developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarwarjr70&label=Profile%20views&color=0e75b6&style=flat" alt="sarwarjr70" /> </p>
 
